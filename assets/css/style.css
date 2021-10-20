@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Italianno&display=swap');
+
+#top {
+    background-color: lightpink;
+    height: 35px;
+}
+
+#head {
+    text-align: right;
+    color: white;
+    font-family: caveat;
+}
+
+#top2 {
+    background-color: #c38d9e;
+    height: 50px;
+}
+
+#main {
+    background-color: #41b3a3;
+    height: 50rem;
+}
+
+#title {
+    padding-top: 5px;
+    text-align: center;
+    color: wheat
+}
+
+#welcome {
+    padding-top: 50px;
+}
