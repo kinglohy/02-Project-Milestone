@@ -1,7 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat&family=Italianno&display=swap');
 
+body {
+    background-image: url(../images/001.jpg);
+}
+
 #top {
-    background-color: lightpink;
+    background-color: #d79922;
     height: 35px;
 }
 
@@ -12,21 +16,55 @@
 }
 
 #top2 {
-    background-color: #c38d9e;
+    background-color: #efe2ba;
     height: 50px;
 }
 
 #main {
-    background-color: #41b3a3;
-    height: 50rem;
+    background-color: #c5cbe3;
+    height: 8rem;
 }
+
 
 #title {
     padding-top: 5px;
     text-align: center;
-    color: wheat
+    color: darkorchid
+}
+
+.centerImage {
+   text-align: center;
+   display: block;
 }
 
 #welcome {
     padding-top: 50px;
+}
+
+#guitarMemory {
+    padding-top: 50px;
+    text-align: center;
+    color: khaki;
+}
+
+#uitleg {
+    text-align: center;
+    color: white;
+    font-size: medium;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+#one {
+    background-color: #c5cbe3;
+    height: 40rem;
+}
+
+#two {
+    background-color: #Ac3b61;
+    align-items: center;
+}
+
+#footer {
+    background-color: #c5cbe3;
+    height: 8rem;
 }
